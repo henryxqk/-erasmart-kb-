@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "social-media-scheduler": {
+      "version": "1.0.0",
+      "installedAt": 1775504039454
+    },
+    "social-media-publish": {
+      "version": "1.0.0",
+      "installedAt": 1775504058247
+    },
+    "instagram-agent": {
+      "version": "1.0.0",
+      "installedAt": 1775504069944
+    },
+    "tiktok-uploader": {
+      "version": "0.1.0",
+      "installedAt": 1775504096472
+    }
+  }
+}
