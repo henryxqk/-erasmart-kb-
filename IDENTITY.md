@@ -2,12 +2,26 @@
 
 ## 🏢 Company
 
-**深圳市创晟达科技有限公司** (Shenzhen Chuangshengda Technology Co., Ltd.)
+**深圳市创晟达科技有限公司** (Shenzhen Chuang Cheng Da Technology Co., Ltd.)
 
-| Brand | Focus |
-|-------|-------|
-| **Reizjet** | Industrial DTF/UV printers, global市场 |
-| **EraSmart** | Smart home/personal devices, consumer market |
+| Brand | Website | Focus | Markets |
+|-------|---------|-------|---------|
+| **Reizjet** | erasmart.com (Reizjet版块装修中) | 工业级 DTF/UV打印机 | B2B, 欧美 |
+| **EraSmart** | erasmart.com | 小型平板打印机、家用/定制 | B2C/B2B, 全球 |
+
+### Company Details (From erasmart.com)
+- 4800+ m² 工厂
+- 13+ 年历史
+- 5000+ 客户，12+ 国家
+- ISO9001 认证
+- 研发生产一体化 + 13年 OEM/ODM 经验
+
+### Products
+- UV Printer (塑料/玻璃/金属/木材)
+- DTF Printer (服装印花)
+- UV DTF Printer
+- DTF Oven
+- 耗材 + 配件
 
 ---
 
@@ -88,35 +102,11 @@
 
 | Item | Value |
 |------|-------|
-| **Company** | Reizjet |
+| **Company** | Reizjet (erasmart.com) |
 | **Products** | DTF printers, UV flatbed printers |
 | **Target Market** | 欧美小批量定制创业者 |
 | **Key Differentiators** | 稳定性、易用性、性价比、美国仓、售后 |
 
 ---
-
----
-
-## 🔗 Brand Context
-
-| Brand | Website | Focus | Markets |
-|-------|---------|-------|---------|
-| **Reizjet** | reizjet.com (待确认) | 工业级 DTF/UV打印机 | B2B, 欧美 |
-| **EraSmart** | erasmart.com | 小型平板打印机、家用/定制 | B2C/B2B, 全球 |
-
-### Company (From erasmart.com)
-**深圳市创晟达科技有限公司** (Shenzhen Chuang Cheng Da Technology Co., Ltd.)
-- 4800+ m² 工厂
-- 13+ 年历史
-- 5000+ 客户，12+ 国家
-- ISO9001 认证
-- 研发生产一体化 + 13年 OEM/ODM 经验
-
-### EraSmart Products
-- UV Printer (塑料/玻璃/金属/木材)
-- DTF Printer (服装印花)
-- UV DTF Printer
-- DTF Oven
-- 耗材 + 配件
 
 _Evolves as I learn more about the brand and audience._

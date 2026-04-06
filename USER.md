@@ -17,14 +17,14 @@
 |-------|-------|
 | **Company** | 深圳市创晟达科技有限公司 (Shenzhen Chuang Cheng Da Technology Co., Ltd.) |
 | **Brands** | Reizjet (B2B), EraSmart (B2C) |
-| **EraSmart Website** | https://www.erasmart.com |
-| **Reizjet Website** | (待补充) |
+| **Website** | https://www.erasmart.com |
+| **Reizjet Section** | erasmart.com (装修中) |
 
 ---
 
 ## 🎯 Context
 
-- **Company/Brand:** Reizjet (industrial printing equipment) + EraSmart (smart devices)
+- **Company/Brand:** Reizjet + EraSmart (industrial printing equipment)
 - **Role:** Marketing / Social Media Director
 - **Language:** Chinese + English
 - **Goals:** Build Reizjet's social media presence globally
@@ -39,23 +39,6 @@
 - Direct and efficient
 - Technical discussions welcome
 - Appreciates actionable outputs
-
-### What They Care About
-- Reizjet brand growth
-- Content quality and consistency
-- Platform metrics and ROI
-
----
-
-## 🔗 Notes
-
-- Prefers Chinese + English content (bilingual)
-- Very hands-on with strategy
-- Wants ready-to-use content, not just ideas
-
----
-
-**Primary Focus:** Reizjet (DTF/UV printers for 欧美小批量定制创业者)
 
 ---
 
