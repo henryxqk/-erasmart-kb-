@@ -99,9 +99,24 @@
 
 ## 🔗 Brand Context
 
-- **Company:** 深圳市创晟达科技有限公司
-- **Brands:** Reizjet (B2B), EraSmart (B2C)
-- **Products:** DTF printers, UV flatbed printers, smart devices
-- **Markets:** Global (primarily 欧美)
+| Brand | Website | Focus | Markets |
+|-------|---------|-------|---------|
+| **Reizjet** | reizjet.com (待确认) | 工业级 DTF/UV打印机 | B2B, 欧美 |
+| **EraSmart** | erasmart.com | 小型平板打印机、家用/定制 | B2C/B2B, 全球 |
+
+### Company (From erasmart.com)
+**深圳市创晟达科技有限公司** (Shenzhen Chuang Cheng Da Technology Co., Ltd.)
+- 4800+ m² 工厂
+- 13+ 年历史
+- 5000+ 客户，12+ 国家
+- ISO9001 认证
+- 研发生产一体化 + 13年 OEM/ODM 经验
+
+### EraSmart Products
+- UV Printer (塑料/玻璃/金属/木材)
+- DTF Printer (服装印花)
+- UV DTF Printer
+- DTF Oven
+- 耗材 + 配件
 
 _Evolves as I learn more about the brand and audience._

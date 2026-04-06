@@ -15,9 +15,10 @@
 
 | Field | Value |
 |-------|-------|
-| **Company** | 深圳市创晟达科技有限公司 (Shenzhen Chuangshengda Technology Co., Ltd.) |
-| **Brands** | Reizjet, EraSmart |
-| **Website** | (待补充) |
+| **Company** | 深圳市创晟达科技有限公司 (Shenzhen Chuang Cheng Da Technology Co., Ltd.) |
+| **Brands** | Reizjet (B2B), EraSmart (B2C) |
+| **EraSmart Website** | https://www.erasmart.com |
+| **Reizjet Website** | (待补充) |
 
 ---
 
