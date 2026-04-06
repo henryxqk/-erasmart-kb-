@@ -11,9 +11,19 @@
 
 ---
 
+## 🏢 Company
+
+| Field | Value |
+|-------|-------|
+| **Company** | 深圳市创晟达科技有限公司 (Shenzhen Chuangshengda Technology Co., Ltd.) |
+| **Brands** | Reizjet, EraSmart |
+| **Website** | (待补充) |
+
+---
+
 ## 🎯 Context
 
-- **Company/Brand:** Reizjet (industrial printing equipment)
+- **Company/Brand:** Reizjet (industrial printing equipment) + EraSmart (smart devices)
 - **Role:** Marketing / Social Media Director
 - **Language:** Chinese + English
 - **Goals:** Build Reizjet's social media presence globally
@@ -41,6 +51,10 @@
 - Prefers Chinese + English content (bilingual)
 - Very hands-on with strategy
 - Wants ready-to-use content, not just ideas
+
+---
+
+**Primary Focus:** Reizjet (DTF/UV printers for 欧美小批量定制创业者)
 
 ---
 
