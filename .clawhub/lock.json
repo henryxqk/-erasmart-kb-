@@ -16,6 +16,26 @@
     "tiktok-uploader": {
       "version": "0.1.0",
       "installedAt": 1775504096472
+    },
+    "buffer-api": {
+      "version": "1.0.0",
+      "installedAt": 1775528853312
+    },
+    "mixpost": {
+      "version": "1.0.0",
+      "installedAt": 1775528863020
+    },
+    "content-calendar": {
+      "version": "1.0.1",
+      "installedAt": 1775528873055
+    },
+    "social-pack": {
+      "version": "1.0.0",
+      "installedAt": 1775528873457
+    },
+    "image-generation": {
+      "version": "1.0.3",
+      "installedAt": 1775528884093
     }
   }
 }
